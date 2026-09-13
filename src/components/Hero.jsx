@@ -17,7 +17,7 @@ function Hero() {
       <div className="relative mx-auto max-w-6xl px-6 w-full grid md:grid-cols-[1.4fr_1fr] gap-16 items-end">
         <div className="bp-fade">
           <h1 className="font-display text-[13vw] leading-[0.95] sm:text-6xl md:text-7xl text-[var(--ink)] tracking-tight">
-            Mriegdnra Rao
+            Mrigendra Rao
           </h1>
           <p className="font-display text-2xl md:text-3xl text-[var(--muted)] mt-4">
             builds full-stack products that hold up under real traffic.
